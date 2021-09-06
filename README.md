@@ -88,37 +88,37 @@ As final considerations:
 
 Purchase data based on gender, as shown in Table I, indicates that consumers of Heroes of Pymoli’s microtransactions are mostly male. Accounting for approximately 84% of the gender demographic. While around 14% are female and the remaining 2% are another gender or chose not to disclose gender.
 ### Table I
-![gender](images/Gender_Statistics.png)
+![gender](Images/Gender_Statistics.png)
 
 
 While accounting for most purchase value and total purchases, males however spend the least amount of money on average. Summarising from Table II, males spent $4.07 per person on average. While females and other consumers spent $4.47 and $4.56 respectively.
 
 ### Table 2 
-![gender](images/gender_avg.png)
+![gender](Images/gender_avg.png)
 
 ## Age Analysis
 
 Indicated by Table III, players who purchase microtransactions on Heroes of Pymoli are mainly in the 20-24 age range demographic. Accounting for almost half of purchasers (45%). The next two most common age ranges of purchasers are 15-19, then 25-29. Having a representation of approximately 19% and 13% respectively. These three age groups alone account for just above three quarters of purchasers.
 
 ### Table III
-![gender](images/Age_stats.png)
+![gender](Images/Age_stats.png)
 
 The biggest spenders on average based on age demographics are people who of the age of 35 to 39 who spend $4.76 on average as seen in Table IV.  Followed by people who are younger than the age of 10 who spend $4.54 on average. Meanwhile most common age demographic, 20-24, spend on average $4.32.
 
 ### Table IV
-![gender](images/age_avg.png)
+![gender](Images/age_avg.png)
 
 ## Most Popular and Profitable Analysis
 
 The most popular items are ‘Final Critic’ and ‘Oathbreaker, Last Hope of the Breaking Storm’. Reading Table V, they were purchased 13 and 12 times respectively. After that, there have been multiple items that were bought 9 times.
 
 ### Table V
-![gender](images/Most_Popular.png)
+![gender](Images/Most_Popular.png)
 
 From Table VI, Final Critic and Oathbreaker were also the most profitable as their prices were also relatively high. Generating above $100 dollars combined. The next profitable items are ‘Nirvana’, generating $44.10 in profit, and ‘Fiery Glass Crusader’ generating $41.22.
 
 ### Table VI 
-![gender](images/book_avg.png)
+![gender](Images/book_avg.png)
 
 
 
